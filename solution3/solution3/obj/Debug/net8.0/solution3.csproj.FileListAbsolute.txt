@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\bin\Debug\net8.0\solution3.exe
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\bin\Debug\net8.0\solution3.deps.json
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\bin\Debug\net8.0\solution3.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\bin\Debug\net8.0\solution3.dll
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\bin\Debug\net8.0\solution3.pdb
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\obj\Debug\net8.0\solution3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\obj\Debug\net8.0\solution3.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\obj\Debug\net8.0\solution3.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\obj\Debug\net8.0\solution3.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\obj\Debug\net8.0\solution3.dll
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\obj\Debug\net8.0\refint\solution3.dll
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\obj\Debug\net8.0\solution3.pdb
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\obj\Debug\net8.0\solution3.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\solution1\solution3\solution3\obj\Debug\net8.0\ref\solution3.dll

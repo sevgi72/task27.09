@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Task27._09</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\PC\OneDrive\Desktop\task1.27.09" Link="task1.27.09" />
+    <Compile Include="C:\Users\PC\OneDrive\Desktop\task27.09" Link="task27.09" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\obj\Debug\net8.0\Task27.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\obj\Debug\net8.0\Task27.09.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\obj\Debug\net8.0\Task27.09.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\obj\Debug\net8.0\Task27.09.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\bin\Debug\net8.0\Task27.09.exe
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\bin\Debug\net8.0\Task27.09.deps.json
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\bin\Debug\net8.0\Task27.09.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\bin\Debug\net8.0\Task27.09.dll
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\bin\Debug\net8.0\Task27.09.pdb
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\obj\Debug\net8.0\Task27.09.dll
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\obj\Debug\net8.0\refint\Task27.09.dll
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\obj\Debug\net8.0\Task27.09.pdb
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\obj\Debug\net8.0\Task27.09.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\solution1\Task27.09\obj\Debug\net8.0\ref\Task27.09.dll
