@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive\\Desktop\\solution1\\solution4\\solution4\\solution4.csproj": {}
+    "C:\\Users\\PC\\OneDrive\\Desktop\\task2709\\solution4\\solution4\\solution4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive\\Desktop\\solution1\\solution4\\solution4\\solution4.csproj": {
+    "C:\\Users\\PC\\OneDrive\\Desktop\\task2709\\solution4\\solution4\\solution4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Desktop\\solution1\\solution4\\solution4\\solution4.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Desktop\\task2709\\solution4\\solution4\\solution4.csproj",
         "projectName": "solution4",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Desktop\\solution1\\solution4\\solution4\\solution4.csproj",
+        "projectPath": "C:\\Users\\PC\\OneDrive\\Desktop\\task2709\\solution4\\solution4\\solution4.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Desktop\\solution1\\solution4\\solution4\\obj\\",
+        "outputPath": "C:\\Users\\PC\\OneDrive\\Desktop\\task2709\\solution4\\solution4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

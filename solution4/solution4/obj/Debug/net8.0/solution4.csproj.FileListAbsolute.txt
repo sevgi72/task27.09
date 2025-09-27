@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\bin\Debug\net8.0\solution4.exe
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\bin\Debug\net8.0\solution4.deps.json
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\bin\Debug\net8.0\solution4.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\bin\Debug\net8.0\solution4.dll
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\bin\Debug\net8.0\solution4.pdb
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\obj\Debug\net8.0\solution4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\obj\Debug\net8.0\solution4.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\obj\Debug\net8.0\solution4.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\obj\Debug\net8.0\solution4.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\obj\Debug\net8.0\solution4.sourcelink.json
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\obj\Debug\net8.0\solution4.dll
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\obj\Debug\net8.0\refint\solution4.dll
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\obj\Debug\net8.0\solution4.pdb
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\obj\Debug\net8.0\solution4.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\task2709\solution4\solution4\obj\Debug\net8.0\ref\solution4.dll

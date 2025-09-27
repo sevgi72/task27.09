@@ -4,7 +4,7 @@ public class HelloWorld
 {
     public static void Main(string[] args)
     {
-        int num = 1;
+        int num = int.Parse(Console.ReadLine());
         int numcopy = num;
         int count = 0;
 

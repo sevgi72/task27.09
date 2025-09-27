@@ -4,7 +4,7 @@ public class HelloWorld
 {
     public static void Main(string[] args)
     {
-        int num = 8;
+        int num = int.Parse(Console.ReadLine());
         int numtest = num;
         while (numtest % 2 == 0 && numtest > 1)
         {
