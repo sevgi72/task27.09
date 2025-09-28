@@ -1,0 +1,5 @@
+C:\Users\PC\OneDrive\Desktop\task2709\solution.1\solution.1\obj\Debug\net8.0\solution.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\task2709\solution.1\solution.1\obj\Debug\net8.0\solution.1.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\task2709\solution.1\solution.1\obj\Debug\net8.0\solution.1.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\task2709\solution.1\solution.1\obj\Debug\net8.0\solution.1.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\task2709\solution.1\solution.1\obj\Debug\net8.0\solution.1.sourcelink.json
