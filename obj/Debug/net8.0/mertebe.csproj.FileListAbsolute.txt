@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\bin\Debug\net8.0\mertebe.exe
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\bin\Debug\net8.0\mertebe.deps.json
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\bin\Debug\net8.0\mertebe.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\bin\Debug\net8.0\mertebe.dll
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\bin\Debug\net8.0\mertebe.pdb
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\obj\Debug\net8.0\mertebe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\obj\Debug\net8.0\mertebe.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\obj\Debug\net8.0\mertebe.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\obj\Debug\net8.0\mertebe.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\obj\Debug\net8.0\mertebe.sourcelink.json
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\obj\Debug\net8.0\mertebe.dll
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\obj\Debug\net8.0\refint\mertebe.dll
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\obj\Debug\net8.0\mertebe.pdb
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\obj\Debug\net8.0\mertebe.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\task2709\mertebe\mertebe\obj\Debug\net8.0\ref\mertebe.dll
